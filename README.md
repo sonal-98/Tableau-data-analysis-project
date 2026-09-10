@@ -1,7 +1,7 @@
 # Tableau-data-analysis-project
-# 📊 App Insights (Google Play Store App) Analysis – Tableau
+# App Insights (Google Play Store App) Analysis – Tableau
 
-## 📌 Project Overview
+## Project Overview
 
 **App Insights is a Data Analytics Project** based on Google Play Store application data.
 
@@ -13,7 +13,7 @@ This project was completed using **Tableau** for data analysis, visualization, a
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 The Google Play Store contains applications across numerous categories and genres, with significant differences in their ratings, reviews, installations, pricing, and other characteristics.
 
@@ -36,28 +36,8 @@ The business problem and project objectives are based on the provided assignment
 
 ---
 
-# 👥 Stakeholders
 
-The analysis is intended to provide useful information to:
-
-### Internal Stakeholders
-
-* **App Developers**
-* **Product Managers**
-* **Marketing Team**
-* **Senior Management**
-
-### External Stakeholders
-
-* **App Users**
-* **Advertisers**
-* **Partners**
-
-These stakeholder groups are specified in the project assignment.
-
----
-
-# 🎯 Project Objectives
+# Project Objectives
 
 The primary objectives are:
 
@@ -70,7 +50,7 @@ The primary objectives are:
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 The project uses the **Google Play Store Apps dataset**.
 
@@ -94,7 +74,7 @@ The dataset contains application-level information including:
 
 ## The dataset structure and data dictionary are defined in the provided assignment.
 
-# 🧹 Data Preparation
+# Data Preparation
 
 The data was prepared before visualization and analysis.
 
@@ -114,92 +94,25 @@ The prepared dataset was then used in Tableau to create worksheets, charts, calc
 
 ---
 
-# 📊 Analysis Performed
+# Analysis Performed
 
 The project was completed across three analytical levels:
 
-* 🟢 **Basic**
-* 🟡 **Medium**
-* 🔴 **Advanced**
+**Basic**
+**Medium**
+**Advanced**
 
 All questions specified in the assignment were addressed.
 
----
 
-# 🟢 Basic Analysis
-
-The Basic analysis includes:
-
-1. Overall average application rating
-2. Number of unique application categories
-3. Distribution of application sizes
-4. Free vs paid application comparison
-5. Most common content rating
-6. Top 5 applications by installs
-7. Number of applications with rating ≥ 4.0
-8. Average reviews for free vs paid applications
-9. Average application size by category
-10. Number of applications updated in 2018
-
----
-
-# 🟡 Medium Analysis
-
-The Medium analysis includes:
-
-1. Correlation between installs and ratings
-2. Categories with the highest average ratings
-3. Price vs rating for paid applications
-4. Rating distribution across content ratings
-5. Genres with more than 1 million installs
-6. Application update frequency
-7. Relationship between app size and installs
-8. Applications with the highest number of reviews
-9. Content rating distribution across free and paid apps
-10. Top 5 categories by total installs
-
----
-
-# 🔴 Advanced Analysis
-
-The Advanced analysis includes:
-
-### Top 10 Highest-Rated Apps
-
-Compared the highest-rated applications using metrics such as:
-
-* Rating
-* Reviews
-* Installs
-
-### Application Update Trends
-
-Analyzed application update activity over time and explored possible seasonal patterns.
-
-### Install Bands vs Average Rating
-
-Applications were grouped into install ranges and compared based on their average ratings.
-
-### Sentiment Analysis
-
-Where review text was available, user reviews were analyzed for sentiment.
-
-### Genre vs User Ratings
-
-Compared average and median ratings across different genres.
-
----
-
-# 📈 Tableau Dashboard
+# Tableau Dashboard
 
 The project was developed using **Tableau** to transform the prepared data into interactive analytical visualizations.
 
-The Tableau implementation focuses on presenting the analysis in an accessible and interactive manner.
-
 
 ---
 
-# 💡 Business Insights
+# Business Insights
 
 The Tableau analysis helps explore:
 
@@ -218,7 +131,7 @@ The actual numerical findings should be taken from the completed Tableau workshe
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Tool                          | Purpose                             |
 | ----------------------------- | ----------------------------------- |
@@ -231,8 +144,7 @@ The actual numerical findings should be taken from the completed Tableau workshe
 
 
 ---
-
-# 📚 Project Learning Outcomes
+# Project Learning Outcomes
 
 This project helped strengthen practical skills in:
 
@@ -250,7 +162,7 @@ This project helped strengthen practical skills in:
 
 ---
 
-# 💼 Business Value
+# Business Value
 
 The project demonstrates how raw application data can be transformed into meaningful **business insights and visual stories**.
 
@@ -267,7 +179,7 @@ These insights can support decisions related to:
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Sonal Sharma**
 
